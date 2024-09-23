@@ -1,0 +1,2 @@
+[0923/150022.146:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0923/150022.241:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: O pipe está sendo fechado. (0xE8)
